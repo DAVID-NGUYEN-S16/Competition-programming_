@@ -13,6 +13,7 @@ Hành trình tham gia kỳ thi lập trình thi đấu sinh viên toàn quốc V
 
 Thành tích:
 + Đạt giải nhì kì thi Olympic tin học sinh viên toàn quốc năm 2022
++ Codeforces: https://codeforces.com/profile/SECRETS
 ![alt text](https://github.com/DAVID-NGUYEN-S16/Competition-programming_/blob/main/Thanh%20tich/GK_NHI_OLP.jpg)
 
 ![alt text](https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/318432624_1550173108831309_576899680591151101_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=G2fqdBsFbAoAX-48taQ&_nc_ht=scontent.fsgn5-5.fna&oh=00_AfC3Rq_cHG992RVBjdB92V2w4n8trw2Hvs94OPV8TgmFCg&oe=63F976E4)
