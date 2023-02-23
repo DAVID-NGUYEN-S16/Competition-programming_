@@ -3,7 +3,7 @@
 
 Hành trình tham gia kỳ thi lập trình thi đấu sinh viên toàn quốc Việt Nam
 
-2021 - 2023: 
+2021 - 2022: 
 
 + Tham gia lập trình ICPC quốc tế vòng Bắc, Trung, Nam, Quốc Gia 2021
 + Tham gia kì thi lập trình sinh viên và ICPC quốc tế tại Trường Đại Học FPT Hà Nội 2021
